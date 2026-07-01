@@ -2,8 +2,7 @@ tasks = [
     "Complete Python lesson",
     "Workout",
     "Read book",
-    "Practice coding"
-]
+    "Practice coding"]
 
 
 completed_tasks = []
